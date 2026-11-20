@@ -3,12 +3,14 @@
     "id": "com.openblack.map",
     "restype": "quick_app",
     "name": "腕上地图",
-    "description": "在你的手环上抵达任何你想去的地方",
+    "description": "腕上地图把完整的离线地图带到手环：在电脑侧导入 .obm 地图包后，抬腕即可查看周边街道与地名，规划步行、骑行路线并获得转向提示和剩余距离，地图数据全程从本地读取，没有网络、没有信号也能正常使用。支持多城市分区管理、收藏地点一键同步、本地地图包随时更新，出门前在手机整理好路线与常去地点，路上不必再掏手机。",
     "preview": [
-      "media/20261120224107_5.png"
+      "media/preview_01_offline.png",
+      "media/preview_02_navigation.png",
+      "media/preview_03_favorites.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/header_wanshang_ditu_1200x800.png",
+    "cover": "media/cover_wanshang_ditu_v2_1200x800.png",
     "author": [
       {
         "name": "openblack",
@@ -46,7 +48,7 @@
       "required": [
         {
           "type": "plugin",
-          "name": "腕上地图同步器"
+          "id": "腕上地图同步器"
         }
       ]
     }
