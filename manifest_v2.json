@@ -1,0 +1,54 @@
+{
+  "item": {
+    "id": "com.openblack.map",
+    "restype": "quick_app",
+    "name": "腕上地图",
+    "description": "在你的手环上抵达任何你想去的地方",
+    "preview": [
+      "media/20261120224107_5.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/header_wanshang_ditu_1200x800.png",
+    "author": [
+      {
+        "name": "openblack",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "使用教程",
+      "url": "https://ycnk8kvmxufp.feishu.cn/docx/HjPrdHOQ0odmWWxKtSkcmk0Nnaf",
+      "icon": "file-doc"
+    },
+    {
+      "title": "购买链接（爱发电）",
+      "url": "https://ifdian.net/item/cf556822e0ea11f19fee5254001e7c00",
+      "icon": "globe"
+    },
+    {
+      "title": "osm导出",
+      "url": "https://openblack.top/OSM/",
+      "icon": "map-pin-plus"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "v202611184",
+      "file_name": "downloads/com.openblack.map.R91.release.v202611184-xmb10p.rpk",
+      "versionCode": 202611184
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "name": "腕上地图同步器"
+        }
+      ]
+    }
+  }
+}
