@@ -3,14 +3,14 @@
     "id": "com.openblack.map",
     "restype": "quick_app",
     "name": "腕上地图",
-    "description": "腕上地图把完整的离线地图带到手环：在电脑侧导入 .obm 地图包后，抬腕即可查看周边街道与地名，规划步行、骑行路线并获得转向提示和剩余距离，地图数据全程从本地读取，没有网络、没有信号也能正常使用。支持多城市分区管理、收藏地点一键同步、本地地图包随时更新，出门前在手机整理好路线与常去地点，路上不必再掏手机。",
+    "description": "可以通过搜索地点或者在地图上选点，选择目的地，导航到你想去的地方（太远的不行），仅需一次导入（灵感来自于百度地图（只不过没有摇一摇广告））",
     "preview": [
-      "media/preview_01_offline.png",
-      "media/preview_02_navigation.png",
-      "media/preview_03_favorites.png"
+      "media/xiaomi_band_pro-2026-11-21-10-48-52.png",
+      "media/band_screen_composite_426x855_left6.png",
+      "media/xiaomi_band_pro-2026-11-21-10-49-12.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/cover_wanshang_ditu_v2_1200x800.png",
+    "cover": "media/header_wanshang_ditu_1200x800_paid.png",
     "author": [
       {
         "name": "openblack",
@@ -37,9 +37,9 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "v202611184",
-      "file_name": "downloads/com.openblack.map.R91.release.v202611184-xmb10p.rpk",
-      "versionCode": 202611184
+      "version": "v202611185",
+      "file_name": "downloads/com.openblack.map.R92.release.v202611185.rpk",
+      "versionCode": 202611185
     }
   },
   "ext": {
