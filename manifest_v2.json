@@ -3,11 +3,12 @@
     "id": "com.openblack.map",
     "restype": "quick_app",
     "name": "腕上地图",
-    "description": "可以通过搜索地点或者在地图上选点，选择目的地，导航到你想去的地方（太远的不行），仅需一次导入（灵感来自于百度地图（只不过没有摇一摇广告））",
+    "description": "可以通过搜索地点或者在地图上选点，选择目的地，导航到你想去的地方（太远的不行），仅需一次导入（灵感来自于百度地图（只不过没有摇一摇广告））QQ群1134861741",
     "preview": [
       "media/xiaomi_band_pro-2026-11-21-10-48-52.png",
       "media/band_screen_composite_426x855_left6.png",
-      "media/xiaomi_band_pro-2026-11-21-10-49-12.png"
+      "media/xiaomi_band_pro-2026-11-21-10-49-12.png",
+      "media/qrcode_1795311883280.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/header_wanshang_ditu_1200x800_paid.png",
@@ -33,6 +34,11 @@
       "title": "osm导出",
       "url": "https://openblack.top/OSM/",
       "icon": "map-pin-plus"
+    },
+    {
+      "title": "QQ群",
+      "url": "https://qm.qq.com/q/bVrQtBXNM4",
+      "icon": "chat"
     }
   ],
   "downloads": {
